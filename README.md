@@ -45,6 +45,3 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request. 
 
----
-
-Feel free to customize any part of this README to better fit your project's specifics!
